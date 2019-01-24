@@ -1,0 +1,15 @@
+{
+  "name": "graphql-weaver-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@graphile-contrib/pg-simplify-inflector": "^4.0.0-alpha.0",
+    "apollo-server": "^2.3.1",
+    "graphql-weaver": "^0.13.1",
+    "postgraphile": "^4.3.1"
+  }
+}
